@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\bin\Debug\JantarDeFilosofos.exe.config
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\bin\Debug\JantarDeFilosofos.exe
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\bin\Debug\JantarDeFilosofos.pdb
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.Form1.resources
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.Properties.Resources.resources
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.exe
+C:\Users\gabri\source\repos\JantarDeFilosofos\JantarDeFilosofos\obj\Debug\JantarDeFilosofos.pdb
