@@ -159,7 +159,7 @@
             // relogio
             // 
             this.relogio.AutoSize = true;
-            this.relogio.Location = new System.Drawing.Point(53, 143);
+            this.relogio.Location = new System.Drawing.Point(88, 157);
             this.relogio.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.relogio.Name = "relogio";
             this.relogio.Size = new System.Drawing.Size(16, 17);
@@ -169,11 +169,11 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(3, 143);
+            this.label7.Location = new System.Drawing.Point(7, 157);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(44, 17);
+            this.label7.Size = new System.Drawing.Size(74, 17);
             this.label7.TabIndex = 12;
-            this.label7.Text = "Timer";
+            this.label7.Text = "interações";
             // 
             // button2
             // 

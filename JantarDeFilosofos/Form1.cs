@@ -73,7 +73,7 @@ namespace JantarDeFilosofos
             int i = 0;
 
             // 
-            while (i < 5)
+            while (i < 40)
 
             {
                 // Percorre a lista de filosofos e faz os disponiveis comerem
@@ -86,7 +86,7 @@ namespace JantarDeFilosofos
 
                 // adiciona o tempo (5s) ao timer
                 MessageBox.Show("Pausa de 5s");
-                relogio.Text = Convert.ToString(Convert.ToInt64(relogio.Text) + 5);
+                relogio.Text = Convert.ToString(Convert.ToInt64(relogio.Text) + 1);
 
 
                 for (int j = 0; j < controle.listaFilosofos.Count(); ++j)
@@ -116,7 +116,7 @@ namespace JantarDeFilosofos
                             if (a.executado)
                             {
                                 a.executado = false;
-                                if (a.refeicoes < 2)
+                                if (a.refeicoes < 16)
                                 {
 
                                     // volta para o painel pensando
@@ -135,7 +135,7 @@ namespace JantarDeFilosofos
                                     garfoDisponivel(a);
                                     garfoDisponivel(a.anterior);
                                 }
-                                else if (a.refeicoes == 2)
+                                else if (a.refeicoes == 16)
                                 {
                                     // Manda para o painel de satisfeitos
                                     painel3.Controls.RemoveByKey(a.nome);
